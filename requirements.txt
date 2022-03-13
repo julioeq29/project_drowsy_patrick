@@ -1,0 +1,20 @@
+#for streamlit
+streamlit==1.2.0
+streamlit-webrtc==0.31.3
+aiortc==1.2.1
+av
+simpleaudio
+
+#for Deep learning model
+tensorflow==2.5
+
+#for handling image
+opencv-python-headless
+opencv-contrib-python-headless
+mediapipe
+cvzone
+Pillow
+
+#other
+matplotlib
+numpy
